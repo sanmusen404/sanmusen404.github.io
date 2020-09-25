@@ -103,6 +103,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git 
-  repository: https://github.com/sanmusen404/sanmusen404.github.io.git 
-  branch:master
+  type: git
+  repository: https://github.com/sanmusen404/sanmusen404.github.io.git
+  branch: master
