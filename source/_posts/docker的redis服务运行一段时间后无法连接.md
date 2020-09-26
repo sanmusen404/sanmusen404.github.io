@@ -2,6 +2,8 @@
 title: docker的redis服务运行一段时间后无法连接
 date: 2020-09-17 10:10:36
 tags:
+- Docker
+- Redis
 ---
 
 # 定位问题
