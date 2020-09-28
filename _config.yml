@@ -3,9 +3,11 @@ subtitle: ''
 description: ''
 keywords: null
 author: John Doe
-language: en
+language: 
+- zh-CN
+- en
 timezone: ''
-url: 'http://example.com'
+url: 'http://sanmusen404.github.io'
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
